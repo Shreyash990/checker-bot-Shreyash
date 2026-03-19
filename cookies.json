@@ -1,7 +1,7 @@
 [
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1805392924.633392,
+        "expirationDate": 1789453330.740958,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_abck",
@@ -10,11 +10,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "DD175F713BB6951655B9196A3A49F57A~0~YAAQBYIsMSwl6PacAQAAVqgcAg+AOrtOVQpNQxBwyVym1xXAAZ4BgN8U7777yMS82LUhc1ZMKmspVaReQm3xgipmYN3dyROgu15slPaaQP9Z9dbtPyuuswNwMknetCLceJgtZzeJ8bw5SLxsdBhqAZkwMTTRqF6nqtyPfkIAYtea7Q524/4j8FKsoWRV3cb91hsoSVILvizvRO9VM5tNIaIpuaxIt/kuQfZTi1kUlY86y0N8tq5zyHV3njy9eX7nYUabXQdgcWiTw8Ag0J7n9CbP6dgJbGl5rs5gzLQ2aK1IN2Y83hv6STe0QTUyMb74OWzzRgMAGY9c+U9ieQTIUCaHkAYfOxbDl7v/1iVSh+s1n1TYIqTquzKc/efWh2w4YJq/Kz4dRIpciWrfZjdISs2IYRkF47j+M1y1RhxGmF/QdlhuRjuqiX4KQoEIq3bxs755DpzBItiu/pAZqFxe9a9iSJYLdAiKVOSz8wVqyi2ermlurLyp4g9hgD3e6yoyjUyjuRUsU6ZAVJNIsyYdUALjXQvkln0T4IoMdf8swKDTJszObAafD3m1NGEfanNZ75CyBB7E3NRc75Lj1GBckoW88m8yISws1+2xVLNq0IsCWE/w3oLj6PaazN1TZQpz+IOlYbFW3ZsVgKr6m0kKMUPvCUVsyBKJVHkqavyB0PohpS+j2pfo+kd5T5f/SJ26oqDP3trefp5vOZqiiW+Vt+GO+EI+mna4PbMf9D6ecMzuXY1K1h06TkWW/FZFgq8jKB3QjIY+9QC2jwuC7vCdOWynFN5a/jVbe4aOR5lhr4ifmwgqyHwbl4qQsNzAdDM1prkemzf1QH2U5g==~-1~-1~1773860496~AAQAAAAF%2f%2f%2f%2f%2fzasfd+r4V2wbv0QYsMnmu0y2FG5DG5nQ765J95fthOF7KsO5Pi28NeyikPM1QB1vAtaPQXajSAUFYIkb1TQV7wilgtxiiBwDTTC~-1"
+        "value": "C3D1D801D6AB1A9E216739F7450FF4FC~0~YAAQjMIsMe/XZPecAQAAYz3CBA+1ZtWp9OLrH1VQdqDsH2DHt67k5phsfcU4ppR5eSorrakVjrdVLZl6b5McMRPoMvDGqOUPiiubqa8f2pErN5f+JVzA2NAHqgl6lTzJPZDkYtEmk0UW/PsPVt3eIvTUF+YCvjVyjUlOD6bejP3mnNT+qQeECtwbn+n7mr/9QB7Qa7Xt9akdV1KsSVZXug+qtj8hisz5qKHmhuAzcxB9tKSucPpEdVMOVow8OiD/EFF4ynD1nV44uXmOcVqivgL6o6PIPpjOq9CpQ4s/zEgEkNmJ8oucedApPmmLZYI4+cCuS04clzfMpIuzjQdFoMK+1GbIPQAxDY9hhXD/C4CHEHWNcJLBilwNsWXQrNPxSvYIJ/zZyIF6BZSk30/q4iJxaZxNq+4/DIULITrOxhF9g/SPC/SCZ0SE4xsA5+wtEcyy7pzD+cRirMhsVb04AHglwn80D7v1AKzEO2Vcs5mt6vkjM7c+00HwHT5LcQuc5IalFj2Dz5rQo6NkPkM6GQ9GAGH6aJUGVgA7zV17tYVAkyTcT3Svpo1i5AuGk2U/rs15xNkSXPYljGVeeT8q5rVJp9NigH8/8vm6HpaV7RPdYG1PNW7WaPFEssPd0TQrU2ItQYAU3PfLhalq5SC+BBr6pkk0jo7EvNaX+2vTnqQaJhqx8x8343t5xXsCmIShYql7zNwbQustG060EdT1xocGN0ct8qhfAcVOAcC9SlHM8xyxMc0wbKc1xJMGVQOD4IOR29aK+ntD9V0zP/vBNnCipgOXG7harUTwUJggG+hsoZ4qqBn5Bpa8FVFG/JH9TKojjZJ4nPnkgT0pAXX4LqvmJOTioj+2RhQhNAS09rNgSMOl~-1~-1~1773903984~AAQAAAAF%2f%2f%2f%2f%2f5Pe6CvGQRjLxVyohePt+G89yi6fvg0bcchBNfvUXQQxsGNfIXFCIzUhH+IhFdOW6cwmYO1qQOSfUtAmrHUSQicDH6ITcqd28DPjjtj2LhwnpFEadMKfsK16O3sNVBLGfN8naCo%3d~-1"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1775066530.04116,
+        "expirationDate": 1775110731.592517,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bookingType",
@@ -27,7 +27,7 @@
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1775066523.737063,
+        "expirationDate": 1775110132.197775,
         "hostOnly": false,
         "httpOnly": false,
         "name": "GUID",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "93c443b0-64b3-471f-b92a-1c1a7d261ef2"
+        "value": "c094db96-7ee1-42c2-b91a-6b9cee2ddb64"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.231968,
+        "expirationDate": 1789452463.015506,
         "hostOnly": false,
         "httpOnly": false,
         "name": "SN",
@@ -49,11 +49,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "VatsalJ"
+        "value": "Shreyash"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1773871292.041792,
+        "expirationDate": 1773914338.694695,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bm_sz",
@@ -62,11 +62,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "0F0B9EE58DE23F4E62D512EA1591E495~YAAQBYIsMVso6PacAQAAdb0cAh9OWLoX3CvvkKj01Jqdj+X3nmgqHoRL2FrOyXhSg3bnY8Q6RLcsyvtNcOb1dAvfY89lqsb7ZZ1xEmAWkwnq46rEbcT8phoA5KHPA3m6pURpK2WCweqqeVE7ss5171AAGov93sEG+0bD15BICHdquZwFSyPZCodKG+NjDcR1RaBeLcCPAfke3HrhoBviMMrdDulKkVuoDbXlMmVT0scnueyZ4EAoaibDq/ru5KB9Aqm/7eM3Wn4ACAV2cxms8cHI36pUCTP4reMNEN6BouH99UWhg7zJ/cDCz0830EtBrLL4IQIQz9l9Bmt4fCkllGbP/4fYAtTSWsryM1GHwdE/VG24HTuHmSuyozDL1aVYAlYF+WrYL/UMKiKqUy9CJIQBa3cIqPx1wH7p8vGmnCLnFsva1R3klxH5Ck6Kufsdnqcmn0JsWPBartgO~3683120~3356981"
+        "value": "77C9D019AA5E5B2DC2975CF88A091AC9~YAAQjMIsMZb3ZPecAQAAUwjDBB8kPpa19XvhjR/eP9ItTxoZxHQ1Laijs7V+DjTKx/045s8P6o0HPJ8L5jF+IQyGFUq8DtUlw27QrhamR2lRNVSrMulFhW2ivq5IxIQ2Fw307Is8nlcjxTZTeyLrV1A9UXRilBDqRqi8OoJNVlEdqe19h2KbPtkcEzh/pNxNz3We0O24Vqo9T/qOo+YqwcJnZgeoZOHZeIWpjiMLEqNh1CrITrk45V8ANYIH8M8XEtApc9Zhpc+/nNY+W9F0myb4TlqO7tMMEvZnPPliF2ii4nc5LXDiH2L75K6qalSfmKEZuGYXlfjA+lBVmS2c9y1ycoI4yJ00Lq9HF460cWOnBeRS1dFcs3YkKbi/rHZB3PGqaxetKNM2M2UXXqxoAKYMfCXLQVwGyj+XaSEqhh6Sq1NO7LqKVXJ/86TI56EzmJMI2b1cjz/LgQJ/yaor8vcn0iTH1hJ6Vp6P4L7ffiJXSuihZwYSehdGWrYsH6Ts4CpaErIoxnK0DfCvRrZ1UBG2+bH+xT/OGMzfLIKJ74AiI5WiekQx9mXuyWvMYDwysvGXvlepZB3DjCkrjMKkyLlAEl9S4vGhOw==~4276786~4340016"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1775066523.737421,
+        "expirationDate": 1775110132.197965,
         "hostOnly": false,
         "httpOnly": false,
         "name": "C",
@@ -75,11 +75,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "SH4237707010"
+        "value": "SH0437705340"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1773864092.112937,
+        "expirationDate": 1773907140.403191,
         "hostOnly": false,
         "httpOnly": true,
         "name": "ak_bmsc",
@@ -88,11 +88,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "2E7A58E35518AB0DF63ABD39EAA170E4~000000000000000000000000000000~YAAQBIIsMaaSNfacAQAABTUcAh/6BtCXIOlfjtZ8bWllzoE9IN6xb768w+kbWOA0b8yz5iszNhm3paYYD+f/3MOBcj7P4moJzjB6q6mcI/qWM8WmNVRbwKMdmgpxOUkrwug6Yax86z2/bTHURHkMBufMRAQc1X8IEJQEUM/Q00Qh6tROClrRgG4x4ztsm+YG0akaqtiYH6X8BWdh21mX0UELKeLBRNVeUF+nvSn0WmVSlRnKymyO47/wbKYkX9XPsze5lXI9eET4iM6GjSjhgU864taTv8bEA/riauP5vo5wZQmrtSVcSJT4QzJhPIgSGrxfz66ev2dsI5S3Pz2gMHnNeOFETAtJ2pJVxSl17prsr3ZgXVe5vOxwf66QbiZ4un5suTJPNq6hp9PypjXN1L8uiow4ES65dUd75tDjSWKsbYeoNMUk/p0SdrFyuUNycPqHC9HWB34="
+        "value": "8A858583CFC1D6D26FE68DE2638A02E9~000000000000000000000000000000~YAAQf8IsMcMeIuGcAQAAXRq2BB8Sx1M0jong/gPTzPkNj5VXDA+SBHsi3VapeL7Lza3FNIFw4HaxyBF9URcjaffHfm7Li3uWgIxynksM83Phb+ZZfZyzGMDif/z2KRrKHci3PdISO1/oNmZTMuwvZ286p76/F6tGZ5SLQcJY0ePx/BocjRsJG2ddtDPLMsi5mFrshv9YcoWxm3ewvJolFYVPTwT7EmZAXkkuq7am++uiwdKm99ZvZ3Omi03pN+J/Kx1D95X1Gs1q8hZ/43pWjKH88Q3zoHoTomJi9qaom4YUrvZ+gjc5tPWe17KMyEaLby7Lj9fFnPYpO2MyQtpPp4gJE84yR2f418+9+pKuP0FgN/eScI4ITqhA2qGXr4Ht1XVpk+YvNLTJlYFV1uRDfn1Yet4SovC0ujEczrMUvmCogCr44L9tqvkFBXNUo54BGPWb90rWLdXxh+tj0Izy8oX9GqI="
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1773943320.274597,
+        "expirationDate": 1773987774.230712,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bm_so",
@@ -101,11 +101,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "DFE3C38D3DA342B57EE909750AD05B97A82471896D135072161DA1C7CAC3D721~YAAQBYIsMYUi6PacAQAAUZccAgdvKcIgz2DVtsLaHwVshcbibi2k9X2rgQ/pLTPc+Rh9ZqChzpB9w1/GrR6U4kbOJLv7NsOI24sh0uooo4RkXoelWSXsTMnsydPcRvg3wjfgxgm/g0vvis2Nu0rR1+2NyQsP/1U1E0RuUaS1RVc9xkNVYbMT9yZs721UD4PmtptDkw4ygUbhFcdx6Ao1gJn6GY+C4bODojjujZxshB4173qU6DLkdNJ+qj8R5ShLhtQhm2ZAHVezHeeYTlN69HEEFML8GdEXR4RjwRTFh9iSqh2Opt9zdMeM4f6GuJAEbfyrJBtp26hJBPrldn83m3sBGAVXV9HQ4y8s2r5OoX097mXWlRvbnE0QiWUMWGDU0pVBk1cP6egs08fOs6WqBYk5I/bA8SMSBfjenUjprwtG3ppO0GwdbOiRGA9p3XVZvHq1m85jMP29bBESGUHr6/U="
+        "value": "E8A7318198F2A75F04F722A316A2E9241095A97EA09EE4F0C819B7CEBC356BDE~YAAQjMIsMYfxZPecAQAAF+fCBAdRioTZIozkbfn/O8YKTs5IRu1ZL9e0bZ+Kxl+PwKlR8IzBXAftmKth9ol035Dt+5c/zxVnyaYShFY83e8a0XmjQ+W8ZzWB7qLJ5DkrN0IlBpbDebxtALtQvk20RNqpHdljxmtuEdwBHywINNuY0JKgjRRLRnQMc79RjPoXwcccE2DKZ82tv/nOT5WrSpekhO5iCjDi7LSXPX8mrH8qAG7PIYTG2md33nV6fuVR85F4L2K4CLU3JLCM4tCclicCLQ13j+k/kCj3DBvpeBjveg1/np/Y4GkFMvMQoRj8IBf2Jrx1cPJuvbvdb4jL+oZ0KJ/AXRnrHGGDJ9CVPRewIeTzGk/6zgH+VM7glDKp7/ZPsS52Ps0D0fBJkZiLn4SwmtbsmjRGRXvOMR7qVm0Xv2U6ZZmh4hcUrdcHLJwZKwI0sT5ZPfHEULLyIWLR4RgLzQDydtBR1Pm9GibD0SODcj9GtYowVQ=="
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.231748,
+        "expirationDate": 1789452463.015438,
         "hostOnly": false,
         "httpOnly": false,
         "name": "CI",
@@ -114,11 +114,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "703d820f-5750-4783-b112-2060672e714f"
+        "value": "f547f171-7818-4b78-aec8-90107ff7a8bd"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1776535330.041321,
+        "expirationDate": 1776579785.237553,
         "hostOnly": false,
         "httpOnly": true,
         "name": "bm_s",
@@ -127,11 +127,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "YAAQBYIsMVko6PacAQAAdb0cAgXpDXi1aH48G40wki0kqaDsc2mGe3UEkQpz9DM8VH7y5pG1SVReap3m/5koXf/VkqfJj7W65xys3oDofvjtFjuDNoYjBDEyilfdN0OOyLGrqDi8nEcxqZ5pwIq9aGa2xpNWmFabRW0afLWY26QrG0TETf4gkdLr89Tcl6YpeLhnp+Zgup8tE3eYBsQTY+Y+EUnYJA5GbaS6kCtaGD6eG9k41eiqsPHh0QVm6i4AYAgnuO8ejS0csPWWd6VKWzL9wXuI77k7mBDL3pN6R0M7lPDg3bseNZ+Ql1yKbpOjMLXvMfmC9DZFr3kCKR5lOJ7rHLpf1kRne/ITEfnASGlSZv8siGnshKbmwf8Qy5st/XBG3dU99ZEcl+vojW1lMx2TKPOJcyLM/5h2ZbuHV7oQNT08zWhXFEUaI81nlCqE125LgkNKxict+HAHIthmgJRl9pndC3TN3XRP9rP6il/Mh4e+aVhnqG7uFrrDFV7QW8ulu1d5E+uL3hK1WwZS6l+zqe66tWhpiQS62nz4xU9nq+px0/8yOJZz56efXxFdPS+pZ2/wckwah8Nh3vJNX7540VHUuGpYgP1kNWTRJPYiX7PSgwn425fKiq6FsUAmeFfY+eMnWLo25p48/JHMHcGuyeqnbwhoMZwiyEmZ8cbTxTP7Ctb2GjFzFJn+o7kk1HlH6z2w8Jo5esI790lKzVQyuUyybGI6ZjWjekpXopZLr43Eay7Ntt43LEK0BNH2ZL4ZK+OBM5POIKN06M7lfaw2K37klL+SpMNIyuoAVfSlOQ5MJzvCczhcw29QeZRdrgJqKrKIWKJyNN5tBsFDdZC4caOigECr8sX1JyZ7NUnYw0VlqO0eEfnnTEPPkirL8JGjx6I3ZKJ6qTE05aXprLUSv25vWA+c3nohzfGOskT9fbzyjrreaklFbAPH"
+        "value": "YAAQjMIsMXX5ZPecAQAANxLDBAVUYRt+hyj/T0Ym+nPVvR0rYAa8M/KbYzXUZ2qKJGhorguOPDXv3zhXV/e5v9dOarFYZxW0zhYXy4567T/haW1W1ZIZ5dU0+kPBvn55i61UIYHzHZpeIIr3iRG7LNQKGtPGJDuemhB382y1CVbLVzZcOR5Say2A7GQ5S0BgJjyAb9NdrckFp0e6mEIYUIjZYH07M5t3fu6qeLCmuFisdkaXWXvDYC4BM3v4H6DCzCAELHKX/Ei2pR8m0kfobUiK2xT8f1UEQsiYNMCTbHR72G5C9SUgQ/78kphM+tCsLC7NI2xqKghUBye2pfZWCaupMyqRSbQcNquZdX0/rG1BM7+a0gvhFakIh2+YzF/1ZAgpSbPfjwVAg/IRO0DhpNX19kl5iXAVVmA0WLWT1yHHguWmRghLgSWdIqwNfvIIzDoRWXvtd+C3pr5WDrcnP8Sq6bPaZePoxFoUUNRV3MV5kUHXi6YVNM9DdCKFc6Vq8bpqiP5B9B8OzxF9v+f+CMhUM0QnFXvdMw3SpCWS0UGcqIpl46tANrH1XudWbG/NraGoYmvisT9/DxKdHLoBdAyjaLu/7+hdsXVMKuFTEAhARpNG0bTCdJU7nRcYVvGX5+UcT/xL7XI/pqMyps+DaufsZh2O7ABc3+27LbD2+YBNh0D8NLNo84DvodmRtiJUyJWP4aZV0VwjIhgvS8kRv3MuOM5TnJZlNWIIeL20HXnadVVffcWHHsL7KmUsWcMSz+XD+eQQI613jSE5+C5DAAM0yB4hr/RxqyaHxuczIY3vY0eB9e+sKxkN9E75leifwvTKeaLAS/gO3xipQCslx80hT28v5V54sypS+I4xS9u1tFstqJwZJ4jxtN0zCZsPqxVoIZRHwFZvDpMZK4O5RJ6TKXJz9LCjNGlYb8f6KZZj0dEa5w=="
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.231498,
+        "expirationDate": 1789452463.015372,
         "hostOnly": false,
         "httpOnly": false,
         "name": "un",
@@ -140,11 +140,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "VatsalJ%20"
+        "value": "Shreyash%20"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.232418,
+        "expirationDate": 1789452463.015106,
         "hostOnly": false,
         "httpOnly": true,
         "name": "R",
@@ -153,11 +153,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJhbGciOiJSUzI1NiJ9.eyJzZXNzaW9uIjp7InNlc3Npb25JZCI6ImRhYWIwNjI3LWI4Y2EtNDU5Yy05MzRiLWM2ZmFjOTExODRmOSIsImNsaWVudE5hbWUiOiJ3ZWJfY2xpZW50Iiwicm9sZXMiOlt7Im5hbWUiOiJST0xFX0NVU1RPTUVSR1JPVVAifV19LCJ0eXBlIjoicmVmcmVzaCIsInRlbmFudElkIjoiU0hFSU4iLCJzdWIiOiJzaGVpbl9haHVqYWFhcmF2YnVvOTZAZ21haWwuY29tIiwiZXhwIjoxNzg1ODY2NTcxLCJpYXQiOjE3NzAzMTQ1NzF9.GAg1U-r-AiK7upfz9za-9pmQZiJMQV_sjNJUVS4XkbUSCTdaXhweBLek0bK9KyA7WO9d1i8WZxklxhe9Gw5EKJjxjobhO376ASgdA3GBvHyVKkBIKdLjBdaGicKZlNYpYJ4BGyJ2bktWj28N8OCCuaQaIAYneBjJtXicNcVqLFUmdZr9U5UCK8pSXp6xiaPFx9pG25Rfm_xpN4t2l-41ur8IfCo_UjPm9vrTy22fxatIe9ss06jw1YftaQNv583G3_o_XtSJxW8h9J2faEH1SgXmTPKZCRszfvVdFpJPiGkPQigTGA0P-hh8BVXl1dgcimqFch2xo9-q7LXchIzDLA"
+        "value": "eyJhbGciOiJSUzI1NiJ9.eyJzZXNzaW9uIjp7InNlc3Npb25JZCI6IjA0ZDBiZDRhLTllM2ItNDMyMi05YTUyLTY2YmUxMjFhMjc5YiIsImNsaWVudE5hbWUiOiJ0cnVzdGVkX2NsaWVudCIsInJvbGVzIjpbeyJuYW1lIjoiUk9MRV9DVVNUT01FUkdST1VQIn1dfSwidHlwZSI6InJlZnJlc2giLCJ0ZW5hbnRJZCI6IlNIRUlOIiwic3ViIjoic2hlaW5fZGFyc2hhYmVudW9hYjc2MkBnbWFpbC5jb20iLCJleHAiOjE3ODk0NTI0NjMsImlhdCI6MTc3MzkwMDQ2M30.jDXc025CCpHe3OanJvVY-bAoQBzSYTeGDcZ8N8Zheo3y67yg3ztnLyMGfWAqm1OmXAHdNeagSorhPidbbiNYJqNavb2ZPKDIsKeBgfXsA59ZQ8g0ehmAs-2AlFLvRMv0z9V7-ObafbDQVxhPrDuiInleCyrbgqFRzPgX-MDjfyz7BRolvGjBeNfsFifzch3GAlDRlpKUXssO7p6aVWnDNaAZQT8d8G1wLX9qpGm_HWGBNAGz9BeP6U-28tY4tRayWCmJqZavYzMFhpfo86F--7YPvOyarxqtr3knzfOjipmCqw2XhVPYK4g0JDaIiZJNQe_T9JZFYAiRcXI05YWu7g"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1775677409.835027,
+        "expirationDate": 1773901697.014906,
         "hostOnly": false,
         "httpOnly": true,
         "name": "A",
@@ -166,24 +166,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJzaGVpbl9haHVqYWFhcmF2YnVvOTZAZ21haWwuY29tIiwicGtJZCI6IjcwM2Q4MjBmLTU3NTAtNDc4My1iMTEyLTIwNjA2NzJlNzE0ZiIsImNsaWVudE5hbWUiOiJ3ZWJfY2xpZW50Iiwicm9sZXMiOlt7Im5hbWUiOiJST0xFX0NVU1RPTUVSR1JPVVAifV0sIm1vYmlsZSI6Ijk2MDQ0MjIyNjMiLCJ0ZW5hbnRJZCI6IlNIRUlOIiwiZXhwIjoxNzc1Njc3NDEyLCJ1dWlkIjoiNzAzZDgyMGYtNTc1MC00NzgzLWIxMTItMjA2MDY3MmU3MTRmIiwiaWF0IjoxNzczMDg1NDEyLCJlbWFpbCI6ImFodWphYWFyYXZidW85NkBnbWFpbC5jb20ifQ.KDtNmUCe6lJsAxwhvXJJJjnTS-t2QTPujhJWAvuuKHgo3ysDq6DXkreYYLlhhmCAf2fGCnZLJLiRKY4_j3VjVzdZmXzv42zCAiX_WY_jgkyGpIsFSzBAihKjlkvsAV4r3L4c8UR5Yvu4ZM6FCGDvolSmUPh93_haGeJJBPtggyiVuWl5c_LZlvMs5bs5g1jgyIVqL_GIlHJi4KP8EGb_KweqQ6D-2JdClF0dM4n0cKXo-x7y90yHmtkOTHcpwL6cOFS1SKn9sJ_CRVrnv6L21ktqPfWEA4ngCBwwmIwDOJSSNWEIyifAU7Z1nAoMdMv1n7kBpev5_DEkEeliDXDG5A"
+        "value": "eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJzaGVpbl9kYXJzaGFiZW51b2FiNzYyQGdtYWlsLmNvbSIsInBrSWQiOiJmNTQ3ZjE3MS03ODE4LTRiNzgtYWVjOC05MDEwN2ZmN2E4YmQiLCJjbGllbnROYW1lIjoidHJ1c3RlZF9jbGllbnQiLCJyb2xlcyI6W3sibmFtZSI6IlJPTEVfQ1VTVE9NRVJHUk9VUCJ9XSwibW9iaWxlIjoiOTkyMDg3NTk3MSIsInRlbmFudElkIjoiU0hFSU4iLCJleHAiOjE3NzY0OTI0NjMsInV1aWQiOiJmNTQ3ZjE3MS03ODE4LTRiNzgtYWVjOC05MDEwN2ZmN2E4YmQiLCJpYXQiOjE3NzM5MDA0NjMsImVtYWlsIjoiZGFyc2hhYmVudW9hYjc2MkBnbWFpbC5jb20ifQ.GVdi_n-LWdZzd-CfaXxtMmRcL-nMSi8vBA_qlIa7E_fWGcQrb1hFSp_ifg7pqEGpOSdd6TTGdvWgYeLOgXVqmaTbTyO6pcDdEpBdzb-QgKtvyRUj8kx50mwRIbIH3Pg4yQeiMI01W0njz8hTc21Ey2_iBPUKNPi8P8Jg3-d-Lb6e9Ngcdz5A3KMYweQVCwsvTT-tUXqTXJZd6hwFHOxlVsgVk3It7gSb6mZcLEMvwaRsFxnj0Y4RXWGClPgTTpGN2mPtoI_Ygvd-6MCawYxx8NZndTswF78NL0tTc9GAPDDxqujn0LzokdeG5-Kv6RrHw0CfFtb0fi9RQIANnmnQZQ"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.231913,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "PK",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "uCnfX80j9gnX8L2plT%2F8bgH4tnowOlOB%2BujleBHEOF24rEKPHJGihocAJFU8fRc2"
-    },
-    {
-        "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.232255,
+        "expirationDate": 1789452463.015337,
         "hostOnly": false,
         "httpOnly": false,
         "name": "U",
@@ -192,11 +179,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "ahujaaaravbuo96%40gmail.com"
+        "value": "darshabenuoab762%40gmail.com"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.232021,
+        "expirationDate": 1789452463.01554,
         "hostOnly": false,
         "httpOnly": false,
         "name": "G",
@@ -209,7 +196,20 @@
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1773860493.078967,
+        "expirationDate": 1773907140.591262,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "bm_mi",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "CAC80B9BF912FD3255129F3B9EE6ED96~YAAQf8IsMfkXIuGcAQAAyNy1BB8HROS9ayzeCGdPsd2XTbE/ca74biECK1EgpvzdVZKmoTtgIpZPHk8vOYLdJUxkKdiroAlKogsrmpep8RHqt0IGl1TlMfxPAPnhGMs8/8YAMEtfnBkOpUadmembnRb2xFz7ZWU/dF/VCW2VkFwkJV6YjFOBXeMqRZDrmGFM064d9yXqf+uEI6G3RV7By+5Lz6gOShFRvrDtjQidBbKGpNiDFHW/ROiIIXhJhlLosj4QaAKwzJQ7vrNSHJ4lAQMPWfVpoThUfEzidi7gk6t0IrOUskK2C0/J9sAc1WW1mbYGZHkiIg6ZCKa9ab8Ek7awNjE=~1"
+    },
+    {
+        "domain": ".sheinindia.in",
+        "expirationDate": 1773903540.780756,
         "hostOnly": false,
         "httpOnly": true,
         "name": "bm_ss",
@@ -222,7 +222,7 @@
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1773864093.585836,
+        "expirationDate": 1773907141.917429,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bm_sv",
@@ -231,11 +231,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "D5C93F891603A0156D68B0AC68D507AF~YAAQBYIsMbMo6PacAQAAk78cAh+LFpm08qGGyH1SXSWXc8i1kywQfgCphqfGRfUXdNhGRMczujotZzDXH/C4PvEJOo5rwsEBhftQO5bc84ZUKisgvC+kvBnKMggrIaRD46tbfoV38Lj4yeLBxUHPmlafyUP8O9fENmzS7ymwbT/mKcM+JKUKpxKeq6amqA9KPnd7kppNT+6YyYZ9tLH0UmnzVZQ6CeCykpgSSKQa3g7LEYSqBV9LvQnO9y1yPkTDc2FGnQ==~1"
+        "value": "E2E2AB66D77D350D6B18446B6B22462B~YAAQf8IsMdMdIuGcAQAA6hC2BB+5ffxaTwwO8iYAbdDMncy9N32Qx6mFqp8Dh9oFnaGl6ii21OcylNtN3M9Xu94hD+WDKiqNPj8J/aBjloXlnAfH401bExWL9h/zRbDmgvlU6/33OGOBN1/Jf1aDU6ntsZgwrzpSTOwGdtllLDHx1HilP/UCn6or49mH3phJpc/OcYPA+Qvo1WVzOXgm8IZJ9N0FSttpBluUiCRBAzVwMkBNZOcZDGQ6P372W+61HsRZlQ==~1"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1808416907.501118,
+        "expirationDate": 1789452520.907706,
         "hostOnly": false,
         "httpOnly": false,
         "name": "customerType",
@@ -244,11 +244,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "Existing"
+        "value": "New"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.231807,
+        "expirationDate": 1789452463.015472,
         "hostOnly": false,
         "httpOnly": false,
         "name": "EI",
@@ -257,11 +257,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "iP4j4Dcxzftnq1M%2FSfZz0FExEqvvtrPUAaSdi0o3C2BKMZLNsLcSwc7mZo0M%2Fcy2"
+        "value": "6couxTwOC9eIt01aQ4ji%2FrRWDFgvwH84cdMwB%2FJEOhRKXu2bO1zzlwsG1XCvfrU7"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.232368,
+        "expirationDate": 1789452463.015299,
         "hostOnly": false,
         "httpOnly": false,
         "name": "LS",
@@ -274,7 +274,7 @@
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1775066523.737625,
+        "expirationDate": 1775110132.198095,
         "hostOnly": false,
         "httpOnly": false,
         "name": "M",
@@ -283,37 +283,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "SH4237707010"
+        "value": "SH0437705340"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1786125742.944403,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "mE",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "she******************%40gmail.com"
-    },
-    {
-        "domain": ".sheinindia.in",
-        "expirationDate": 1786125742.944431,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "mN",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "96XXXXX263"
-    },
-    {
-        "domain": ".sheinindia.in",
-        "expirationDate": 1786125771.231688,
+        "expirationDate": 1789452463.015406,
         "hostOnly": false,
         "httpOnly": false,
         "name": "MN",
@@ -322,24 +296,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "9604422263"
-    },
-    {
-        "domain": "www.sheinindia.in",
-        "expirationDate": 1802675208.45043,
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "V",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "1"
+        "value": "9920875971"
     },
     {
         "domain": ".sheinindia.in",
-        "expirationDate": 1808416924.082897,
+        "expirationDate": 1789453385.237228,
         "hostOnly": false,
         "httpOnly": true,
         "name": "V",
